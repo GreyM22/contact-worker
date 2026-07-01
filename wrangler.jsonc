@@ -7,6 +7,11 @@
 	"name": "contact-worker",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-07-01",
+	"vars": {
+		"TO_EMAIL": "muka.grei@gmail.com",
+		"FROM_EMAIL": "contact@grei-muka.dev",
+		"ALLOWED_ORIGIN": "https://grei-muka.dev"
+	},
 	"observability": {
 		"enabled": true
 	},
